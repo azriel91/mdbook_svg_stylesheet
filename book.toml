@@ -1,0 +1,13 @@
+[book]
+authors = ["Azriel Hoh"]
+language = "en"
+multilingual = false
+src = "src"
+title = "SVG Stylesheet"
+
+[output.html]
+additional-css = ["src/css/graph_style.css"]
+
+[preprocessor.graphviz]
+command = "mdbook-graphviz"
+output-to-file = false
