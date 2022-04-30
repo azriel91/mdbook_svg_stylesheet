@@ -2,6 +2,8 @@
 
 Example book to use SVG stylesheets with [`mdbook-graphviz`].
 
+Online at: https://azriel.im/mdbook_svg_stylesheet/
+
 ## Building Locally
 
 See below for OS specific commands.
