@@ -1,0 +1,7 @@
+.sky > ellipse {
+    fill: #0088ff;
+}
+
+.ground > ellipse {
+    fill: #55ddaa;
+}
